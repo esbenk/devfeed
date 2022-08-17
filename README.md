@@ -1,3 +1,6 @@
+### 17/08/2022 Latest fix
+APIS loading is fixed.
+
 ### 23/06/2022 Summer vacation is almost here. 😃😃👏👏🥳🍾🎈🥂
 Lorem ipsum **dolor** sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
 
