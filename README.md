@@ -1,5 +1,5 @@
 ### 15/09/2022 BC TechDays 😃😃👏👏
-BC TechDays is finally back with a number of Microsoft sessions.
+BC TechDays is finally back with a number of Microsoft hosted sessions.
 
 **Troubleshooting Business Central SaaS environments**
 Join this session to learn about some of the troubleshooting tools in Business Central. In client profiler, profiling in Visual Studio Code, instrumentation versus sampling, debugging, and snapshot debugging.
