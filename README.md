@@ -1,3 +1,6 @@
+11/11/2022 Welcome to the new AL Home 😃😃👏👏
+AL Home is presented at Directions EMEA. It is a new tab delivered as a part of the AL Extension. It is your new feed for AL related news for developers.
+
 ### 15/09/2022 BC TechDays 😃😃👏👏
 BC TechDays is finally back with a number of Microsoft hosted sessions.
 
